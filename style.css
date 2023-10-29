@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Teko&family=Yanone+Kaffeesatz:wght@500&display=swap');
+
+body{
+    background-color: rgb(5, 25, 51);
+    margin: 0px;
+}
+
+#navbar > div{
+    display: inline-block;
+    height: 100px;
+    margin: 0px;
+    width: 50%;
+    background-color: rgb(13, 102, 116);
+}
+
+#logo > a{
+    margin-top: 50px;
+    margin-left: 14%;
+    font-size: 50px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Teko';
+    font-weight: bold;
+}
+
+#socialMedia > a#alinhamento{
+    margin-left: 16px;
+}
+
+#socialMedia > a {
+    margin-left: 30px;
+    font-size: 50px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Teko';
+    font-weight: bold;
+}
+
+#socialMedia{
+    margin: 50px;
+    float: right;
+    margin-right: 500px;
+}
+
+#introducao{
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.texto > img{
+    position: absolute;
+    margin-left: 63.3%;
+    float: right;
+    width: 30%;
+}
+
+.texto > h6{
+    color: rgb(16, 132, 149);
+    font-family: 'Teko';
+    font-size: 70px;
+    margin: 0;
+    margin-left: 7%;
+}
+
+.texto > h1{
+    color: white;
+    font-size: 100px;
+    font-family: 'Teko';
+    margin: 0;
+    margin-left: 7%;
+}
+
+.texto > p{
+    color: white;
+    font-size: 30px;
+    font-family: 'Teko';
+    margin: 0;
+    margin-left: 7%;
+    width: 50%;
+    opacity: 80%;
+}
+
+#competencias{
+    margin-left: 7%;
+}
+
+#competencias > h1{
+    margin: 40px;
+    width: 30%;
+    text-align: center;
+    margin-left: 31%;
+    color: white;
+    font-family: 'Teko';
+    font-size: 50px;
+}
+
+#competencias > a > img{
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    display: inline-block;
+    width: 30%;
+    height: 350px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0px 5px 0px 5px;
+}
+
+footer > div{
+    margin: 60px;
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+    color: white;
+    font-family: 'Teko';
+    opacity: 60%;
+}
+
+.gray{
+    filter: grayscale(80%);
+}
+
+.normal{
+    filter: grayscale(0%);
+}
+
+#sobreMim{
+    margin-top: 80px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Teko';
+    text-align: center;
+    margin-left: 145px;
+    width: 80%;
+    opacity: 80%;
+}
+
+#formacao {
+    margin-top: 80px;
+    width: 94%;
+}
+.titulo > h6{
+    margin: 0px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Teko';
+    margin-left: 112px;
+}
+
+.titulo > p{
+    margin: 5px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Teko';
+    margin-left: 152px;
+    opacity: 80%;
+}
+
+#formulario{
+    margin-top: 50px;
+    display: inline-block;
+}
+
+#info {
+    margin-left: 112px;
+}
+
+#nome {
+    color: black;
+    font-size: 20px;
+    font-family: 'Teko';
+    margin-left: 112px;
+    text-align: left;
+    width: 550px;
+    height: 30px;
+}
+
+#email{
+    margin: 0px;
+    margin-top: 20px;
+    color: black;
+    font-size: 20px;
+    font-family: 'Teko';
+    text-align: left;
+    margin-left: 112px;
+    width: 550px;
+    height: 30px;
+}
+
+#msg {
+    margin: 0px;
+    margin-top: 20px;
+    color: black;
+    font-size: 20px;
+    font-family: 'Teko';
+    text-align: left;
+    margin-left: 112px;
+    width: 550px;
+    height: 113px;
+}
+
+#botao {
+    margin: 0px;
+    margin-top: 20px;
+    color: black;
+    font-size: 30px;
+    font-family: 'Teko';
+    text-align: center;
+    margin-left: 300px;
+    width: 150px;
+    height: 45px;
+}
